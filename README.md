@@ -4,9 +4,9 @@ Generador web de diagramas de clase de PLANTUML
 
 Entrada es un repositorio público de GitHub
 
-Salida el diagrama de clases en formato PlantTUML :)
+Salida el diagrama de clases en formato PlantTUML
 
-Versión inicial para proyectos de JAVA
+Versión inicial para proyectos de JAVA.
 
 Documentación de PlanUML: https://plantuml.com/es/class-diagram
 
